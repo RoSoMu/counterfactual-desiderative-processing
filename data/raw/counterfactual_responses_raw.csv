@@ -1,0 +1,337 @@
+Partcipant_ID,Focus,Agent,Goal_Type,Item,Item_string,Item_len,Response_tag,Response
+EXP1_01,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_01,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_01,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_01,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_01,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_01,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP1_02,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_02,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,correct_3,correct
+EXP1_02,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,correct_3,correct
+EXP1_02,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_02,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_02,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_03,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_03,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,correct_3,correct
+EXP1_03,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,correct_3,correct
+EXP1_03,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_03,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_03,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_04,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,null,null
+EXP1_04,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,correct_3,correct
+EXP1_04,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,null,null
+EXP1_04,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_04,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_04,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_05,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_05,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_05,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_05,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_05,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_05,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_06,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_06,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_06,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_06,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_06,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_06,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP1_07,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_07,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_07,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_07,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_07,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_07,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP1_08,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_08,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_08,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_08,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_08,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_08,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP1_09,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_09,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L2_other_3,L2_other
+EXP1_09,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,correct_3,correct
+EXP1_09,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_09,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_09,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L2_other_3,L2_other
+EXP1_10,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_10,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L2_other_3,L2_other
+EXP1_10,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_10,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_10,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_10,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_11,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_11,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP1_11,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_11,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_11,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L2_other_3,L1_transfer
+EXP1_11,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP1_12,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_12,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,correct_3,correct
+EXP1_12,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_12,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_12,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_12,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_13,I,1,no_goal,Item1,"""If I had heard the rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_13,I,1,no_goal,Item2,"""If I had climbed the mountain cliff, I would have felt invincible"" ",12,correct_3,correct
+EXP1_13,I,1,goal_non_frequent,Item1,"""If I had created an online platform, I would have saved my family's business""",14,correct_3,correct
+EXP1_13,I,1,goal_non_frequent,Item2,"""If I had invested in technology, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_13,I,1,goal_frequent,Item1,"""If I had saved money, I would have gone on holidays""",11,correct_3,correct
+EXP1_13,I,1,goal_frequent,Item2,"""If I had practiced sports, I would have lost weight""",10,correct_3,correct
+EXP1_14,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_14,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_14,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_14,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_14,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_14,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_15,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_15,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,correct_3,correct
+EXP1_15,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_15,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_15,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_15,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_16,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_16,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_16,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_16,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_16,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_16,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_17,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_17,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_17,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_17,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_17,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_17,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_18,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_18,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_18,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_18,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_18,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_18,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L2_other_3,L2_other
+EXP1_19,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_19,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_19,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_19,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_19,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,correct_3,correct
+EXP1_19,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_20,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,null,null
+EXP1_20,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,null,null
+EXP1_20,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_20,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_20,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,null,null
+EXP1_20,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_21,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_21,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_21,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_21,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_21,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_21,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_22,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_22,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_22,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_22,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,null,null
+EXP1_22,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,correct_3,correct
+EXP1_22,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_23,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_23,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,correct_3,correct
+EXP1_23,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_23,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_23,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,null,null
+EXP1_23,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_24,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_24,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_24,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_24,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_24,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_24,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_25,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_25,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_25,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_25,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L2_other_3,L2_other
+EXP1_25,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,correct_3,correct
+EXP1_25,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L2_other_3,L2_other
+EXP1_26,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_26,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,correct_3,correct
+EXP1_26,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer
+EXP1_26,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_26,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_26,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_27,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L1_transfer
+EXP1_27,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_27,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_27,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_27,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP1_27,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_28,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L2_other_3,L2_other
+EXP1_28,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_28,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,null,null
+EXP1_28,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_28,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,null,null
+EXP1_28,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L2_other_3,L2_other
+EXP1_29,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_29,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L2_other_3,L2_other
+EXP1_29,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_29,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_29,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_29,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L2_other_3,L2_other
+EXP1_30,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_30,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,correct_3,correct
+EXP1_30,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L2_other_3,L2_other
+EXP1_30,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_30,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_30,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP1_31,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP1_31,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP1_31,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_31,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer
+EXP1_31,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,correct_3,correct
+EXP1_31,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP1_32,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,correct_3,correct
+EXP1_32,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,correct_3,correct
+EXP1_32,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,correct_3,correct
+EXP1_32,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct
+EXP1_32,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,L2_other_3,L2_other
+EXP1_32,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct
+EXP2_01,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer 
+EXP2_01,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L2_other_3,L2_other
+EXP2_01,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_01,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_01,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_01,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_02,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_02,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP2_02,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,correct_3,correct
+EXP2_02,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L2_other_3,L2_other
+EXP2_02,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_02,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_03,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_03,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L2_other_3,L2_other
+EXP2_03,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_03,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_03,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,correct_3,correct
+EXP2_03,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_04,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_04,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,correct_3,correct
+EXP2_04,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_04,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_04,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_04,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_05,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_05,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP2_05,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L2_other_3,L2_other
+EXP2_05,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L2_other_3,L2_other
+EXP2_05,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_05,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,correct_3,correct
+EXP2_06,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,correct_3,correct
+EXP2_06,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,correct_3,correct
+EXP2_06,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_06,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,correct_3,correct
+EXP2_06,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,correct_3,correct
+EXP2_06,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_07,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_07,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP2_07,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,correct_3,correct
+EXP2_07,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_07,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,correct_3,correct
+EXP2_07,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_08,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_08,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,correct_3,correct
+EXP2_08,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_08,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_08,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_08,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,correct_3,correct
+EXP2_09,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_09,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,correct_3,correct
+EXP2_09,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,correct_3,correct
+EXP2_09,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,correct_3,correct
+EXP2_09,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,correct_3,correct
+EXP2_09,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,correct_3,correct
+EXP2_10,They,1,no_goal,Item1,"""If they had heard the rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_10,They,1,no_goal,Item2,"""If they had climbed the mountain cliff, they would have felt invincible"" ",12,L1_transfer_3,L1_transfer
+EXP2_10,They,1,goal_non_frequent,Item1,"""If they had created an online platform, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_10,They,1,goal_non_frequent,Item2,"""If they had invested in technology, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_10,They,1,goal_frequent,Item1,"""If they had saved money, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_10,They,1,goal_frequent,Item2,"""If they had practiced sports, they would have lost weight""",10,L1_transfer_3,L1_transfer
+EXP2_11,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,correct_3,correct
+EXP2_11,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_11,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,correct_3,correct
+EXP2_11,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,correct_3,correct
+EXP2_11,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_11,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,correct_3,correct
+EXP2_12,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_12,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_12,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L2_other_3,L2_other
+EXP2_12,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_12,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_12,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_13,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_13,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,correct_3,correct
+EXP2_13,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_13,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,correct_3,correct
+EXP2_13,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_13,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L2_other_3,L2_other
+EXP2_14,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_14,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP2_14,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_14,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_14,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,correct_3,correct
+EXP2_14,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_15,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_15,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_15,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_15,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_15,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_15,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_16,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_16,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_16,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_16,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_16,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,correct_3,correct
+EXP2_16,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_17,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_17,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_17,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_17,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_17,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_17,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_18,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_18,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP2_18,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_18,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_18,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_18,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_19,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,correct_3,correct
+EXP2_19,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,correct_3,correct
+EXP2_19,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,correct_3,correct
+EXP2_19,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,correct_3,correct
+EXP2_19,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,correct_3,correct
+EXP2_19,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,correct_3,correct
+EXP2_20,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_20,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L2_other_3,L2_other
+EXP2_20,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_20,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_20,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_20,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L1_transfer_3,L1_transfer
+EXP2_21,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_21,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP2_21,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_21,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_21,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,correct_3,correct
+EXP2_21,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,correct_3,correct
+EXP2_22,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_22,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,correct_3,correct
+EXP2_22,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L2_other_3,L2_other
+EXP2_22,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,null,null
+EXP2_22,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L2_other_3,L2_other
+EXP2_22,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L2_other_3,L2_other
+EXP2_23,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L2_other_3,L2_other
+EXP2_23,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,null,null
+EXP2_23,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,correct_3,correct
+EXP2_23,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L2_other_3,L2_other
+EXP2_23,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,correct_3,correct
+EXP2_23,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,correct_3,correct
+EXP2_24,They,0,no_goal,Item1,"""If there had been a rainstorm, they would have felt relaxed""",11,L1_transfer_3,L1_transfer
+EXP2_24,They,0,no_goal,Item2,"""If there had been a mountain cliff, they would have felt invincible""",12,L1_transfer_3,L1_transfer
+EXP2_24,They,0,goal_non_frequent,Item1,"""If the online platform had been created, they would have saved their family's business""",14,L1_transfer_3,L1_transfer
+EXP2_24,They,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, they would have secured their family's wealth""",13,L1_transfer_3,L1_transfer
+EXP2_24,They,0,goal_frequent,Item1,"""If savings had been sufficient, they would have gone on holidays""",11,L1_transfer_3,L1_transfer
+EXP2_24,They,0,goal_frequent,Item2,"""If sports had been a routine, they would have lost weight""",11,L2_other_3,L2_other
