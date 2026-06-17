@@ -71,11 +71,11 @@ EXP1_19,I,0,goal_non_frequent,Item1,"""If the online platform had been created, 
 EXP1_19,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,correct_3,correct,correct,1,19,29,0,7,7,0,1,1,1,0,0,1,5,6,21,9,B2.2,B2.2,No,Yes,No
 EXP1_19,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,correct_3,correct,correct,1,19,29,0,7,7,0,1,1,1,0,0,1,5,6,21,9,B2.2,B2.2,No,Yes,Yes
 EXP1_19,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,correct_3,correct,correct,1,19,29,0,7,7,0,1,1,1,0,0,1,5,6,21,9,B2.2,B2.2,No,Yes,Yes
-EXP1_20,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,,,,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
-EXP1_20,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,,,,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
+EXP1_20,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,,,missing_response,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
+EXP1_20,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,,,missing_response,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
 EXP1_20,I,0,goal_non_frequent,Item1,"""If the online platform had been created, I would have saved my family's business""",14,L1_transfer_3,L1_transfer,L1_transfer,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,No
 EXP1_20,I,0,goal_non_frequent,Item2,"""If technological investment had been encouraged, I would have secured my family's wealth""",13,L1_transfer_3,L1_transfer,L1_transfer,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,No
-EXP1_20,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,,,,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
+EXP1_20,I,0,goal_frequent,Item1,"""If savings had been sufficient, I would have gone on holidays""",11,,,missing_response,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
 EXP1_20,I,0,goal_frequent,Item2,"""If sports had been a routine, I would have lost weight""",11,L1_transfer_3,L1_transfer,L1_transfer,1,20,23,1,8,8,0,1,1,1,1,1,1,4,6,32,4,C1,C1,Yes,Yes,Yes
 EXP1_24,I,0,no_goal,Item1,"""If there had been a rainstorm, I would have felt relaxed""",11,L1_transfer_3,L1_transfer,L1_transfer,1,24,54,1,8,7,0,0,1,1,0,1,1,3,6,29,9,C1,B2.2,Yes,Yes,Yes
 EXP1_24,I,0,no_goal,Item2,"""If there had been a mountain cliff, I would have felt invincible""",12,L1_transfer_3,L1_transfer,L1_transfer,1,24,54,1,8,7,0,0,1,1,0,1,1,3,6,29,9,C1,B2.2,Yes,Yes,Yes
