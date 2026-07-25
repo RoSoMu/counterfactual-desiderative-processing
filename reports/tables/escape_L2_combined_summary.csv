@@ -1,0 +1,31 @@
+Goal_Behaviour,Model,Outcome,Formula,Predictor,Coef,Std_err,Coef_p,Model_LLR_p,N
+Combined,E01,Escape_L2,escape_L2 ~ Focus,They,0.1335,0.373,0.72,0.7194,198
+Combined,E02,Escape_L2,escape_L2 ~ Agent,Agent,1.1086,0.448,0.013,0.007642,198
+Combined,E03,Escape_L2,escape_L2 ~ Goal_Type,goal_non_frequent,0.5833,0.448,0.193,0.406,198
+Combined,E03,Escape_L2,escape_L2 ~ Goal_Type,no_goal,0.3646,0.429,0.396,0.406,198
+Combined,E04,Escape_L2,escape_L2 ~ Focus + Agent,They,0.2305,0.381,0.545,0.02367,198
+Combined,E04,Escape_L2,escape_L2 ~ Focus + Agent,Agent,1.1319,0.45,0.012,0.02367,198
+Combined,E05,Escape_L2,escape_L2 ~ Focus + Goal_Type,They,0.1348,0.375,0.719,0.5865,198
+Combined,E05,Escape_L2,escape_L2 ~ Focus + Goal_Type,goal_non_frequent,0.5837,0.448,0.192,0.5865,198
+Combined,E05,Escape_L2,escape_L2 ~ Focus + Goal_Type,no_goal,0.3649,0.43,0.396,0.5865,198
+Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,goal_non_frequent,0.6038,0.455,0.185,0.02954,198
+Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,no_goal,0.3785,0.437,0.387,0.02954,198
+Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,Agent,1.1182,0.45,0.013,0.02954,198
+Combined,E07,Escape_L2,escape_L2 ~ Focus * Agent,They,0.2269,0.423,0.591,0.05789,198
+Combined,E07,Escape_L2,escape_L2 ~ Focus * Agent,Agent,1.1259,0.543,0.038,0.05789,198
+Combined,E07,Escape_L2,escape_L2 ~ Focus * Agent,They:Agent,0.0192,0.973,0.984,0.05789,198
+Combined,E08,Escape_L2,escape_L2 ~ Focus * Goal_Type,They,0.1054,0.592,0.859,0.109,198
+Combined,E08,Escape_L2,escape_L2 ~ Focus * Goal_Type,goal_non_frequent,0.1382,0.526,0.793,0.109,198
+Combined,E08,Escape_L2,escape_L2 ~ Focus * Goal_Type,no_goal,0.8473,0.602,0.159,0.109,198
+Combined,E08,Escape_L2,escape_L2 ~ Focus * Goal_Type,They:goal_non_frequent,1.8768,1.238,0.13,0.109,198
+Combined,E08,Escape_L2,escape_L2 ~ Focus * Goal_Type,They:no_goal,-1.0527,0.88,0.231,0.109,198
+Combined,E09,Escape_L2,escape_L2 ~ Agent * Goal_Type,goal_non_frequent,0.6061,0.499,0.224,0.0359,198
+Combined,E09,Escape_L2,escape_L2 ~ Agent * Goal_Type,no_goal,0.7538,0.511,0.141,0.0359,198
+Combined,E09,Escape_L2,escape_L2 ~ Agent * Goal_Type,Agent,1.7047,0.808,0.035,0.0359,198
+Combined,E09,Escape_L2,escape_L2 ~ Agent * Goal_Type,Agent:goal_non_frequent,0.1315,1.356,0.923,0.0359,198
+Combined,E09,Escape_L2,escape_L2 ~ Agent * Goal_Type,Agent:no_goal,-1.5422,1.052,0.143,0.0359,198
+Combined,E10,Escape_L2,escape_L2 ~ Focus * Agent + Goal_Type,They,0.2296,0.425,0.589,0.09566,198
+Combined,E10,Escape_L2,escape_L2 ~ Focus * Agent + Goal_Type,goal_non_frequent,0.605,0.456,0.184,0.09566,198
+Combined,E10,Escape_L2,escape_L2 ~ Focus * Agent + Goal_Type,no_goal,0.3793,0.438,0.386,0.09566,198
+Combined,E10,Escape_L2,escape_L2 ~ Focus * Agent + Goal_Type,Agent,1.1362,0.545,0.037,0.09566,198
+Combined,E10,Escape_L2,escape_L2 ~ Focus * Agent + Goal_Type,They:Agent,0.0179,0.976,0.985,0.09566,198
