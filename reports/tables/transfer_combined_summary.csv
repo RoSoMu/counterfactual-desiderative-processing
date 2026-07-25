@@ -11,21 +11,25 @@ Combined,RT05,resolved_transfer,resolved_transfer ~ Focus + Goal_Type,no_goal,0.
 Combined,RT06,resolved_transfer,resolved_transfer ~ Agent + Goal_Type,goal_non_frequent,0.6672,0.4,0.095,0.3731,160
 Combined,RT06,resolved_transfer,resolved_transfer ~ Agent + Goal_Type,no_goal,0.5323,0.4,0.183,0.3731,160
 Combined,RT06,resolved_transfer,resolved_transfer ~ Agent + Goal_Type,Agent,0.0233,0.332,0.944,0.3731,160
-Combined,RT07,resolved_transfer,resolved_transfer ~ Focus * Agent,They,1.0738,0.446,0.016,0.08872,160
-Combined,RT07,resolved_transfer,resolved_transfer ~ Focus * Agent,Agent,0.561,0.418,0.18,0.08872,160
-Combined,RT07,resolved_transfer,resolved_transfer ~ Focus * Agent,They:Agent,-1.4148,0.694,0.041,0.08872,160
+Combined,RT07,resolved_transfer,resolved_transfer ~ Focus + Agent + Goal_Type,They,P01,P01,P01,P01,160
+Combined,RT07,resolved_transfer,resolved_transfer ~ Focus + Agent + Goal_Type,goal_non_frequent,P01,P01,P01,P01,160
+Combined,RT07,resolved_transfer,resolved_transfer ~ Focus + Agent + Goal_Type,no_goal,P01,P01,P01,P01,160
+Combined,RT07,resolved_transfer,resolved_transfer ~ Focus + Agent + Goal_Type,Agent,P01,P01,P01,P01,160
+Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Agent,They,1.0738,0.446,0.016,0.08872,160
+Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Agent,Agent,0.561,0.418,0.18,0.08872,160
+Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Agent,They:Agent,-1.4148,0.694,0.041,0.08872,160
 Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,They,0.6737,0.587,0.251,0.2621,160
-Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,goal_non_frequent,0.5937,0.518,0.252,0.2621,160
-Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,no_goal,0.7944,0.508,0.118,0.2621,160
-Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,They:goal_non_frequent,0.1535,0.834,0.854,0.2621,160
-Combined,RT08,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,They:no_goal,-0.6608,0.832,0.427,0.2621,160
-Combined,RT09,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,goal_non_frequent,0.7027,0.524,0.18,0.4781,160
-Combined,RT09,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,no_goal,0.8807,0.527,0.095,0.4781,160
-Combined,RT09,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent,0.3254,0.572,0.569,0.4781,160
-Combined,RT09,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent:goal_non_frequent,-0.0584,0.814,0.943,0.4781,160
-Combined,RT09,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent:no_goal,-0.8624,0.814,0.29,0.4781,160
-Combined,RT10,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,They,1.0783,0.451,0.017,0.09055,160
-Combined,RT10,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,goal_non_frequent,0.6374,0.408,0.118,0.09055,160
-Combined,RT10,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,no_goal,0.5781,0.41,0.158,0.09055,160
-Combined,RT10,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,Agent,0.5835,0.424,0.168,0.09055,160
-Combined,RT10,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,They:Agent,-1.4047,0.701,0.045,0.09055,160
+Combined,RT09,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,goal_non_frequent,0.5937,0.518,0.252,0.2621,160
+Combined,RT09,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,no_goal,0.7944,0.508,0.118,0.2621,160
+Combined,RT09,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,They:goal_non_frequent,0.1535,0.834,0.854,0.2621,160
+Combined,RT09,resolved_transfer,resolved_transfer ~ Focus * Goal_Type,They:no_goal,-0.6608,0.832,0.427,0.2621,160
+Combined,RT10,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,goal_non_frequent,0.7027,0.524,0.18,0.4781,160
+Combined,RT10,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,no_goal,0.8807,0.527,0.095,0.4781,160
+Combined,RT10,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent,0.3254,0.572,0.569,0.4781,160
+Combined,RT10,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent:goal_non_frequent,-0.0584,0.814,0.943,0.4781,160
+Combined,RT10,resolved_transfer,resolved_transfer ~ Agent * Goal_Type,Agent:no_goal,-0.8624,0.814,0.29,0.4781,160
+Combined,RT11,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,They,1.0783,0.451,0.017,0.09055,160
+Combined,RT11,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,goal_non_frequent,0.6374,0.408,0.118,0.09055,160
+Combined,RT11,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,no_goal,0.5781,0.41,0.158,0.09055,160
+Combined,RT11,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,Agent,0.5835,0.424,0.168,0.09055,160
+Combined,RT11,resolved_transfer,resolved_transfer ~ Focus * Agent + Goal_Type,They:Agent,-1.4047,0.701,0.045,0.09055,160
