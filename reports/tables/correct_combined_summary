@@ -1,0 +1,31 @@
+Goal_Behaviour,Model,Outcome,Formula,Predictor,Coef,Std_err,Coef_p,Model_LLR_p,N
+Combined,RC01,resolved_correct,resolved_correct ~ Focus,They,-0.3802,0.337,0.26,0.2567,160
+Combined,RC02,resolved_correct,resolved_correct ~ Agent,Agent,0.1335,0.331,0.686,0.6865,160
+Combined,RC03,resolved_correct,resolved_correct ~ Goal_Type,goal_non_frequent,-0.5864,0.4,0.142,0.226,160
+Combined,RC03,resolved_correct,resolved_correct ~ Goal_Type,no_goal,-0.6131,0.404,0.129,0.226,160
+Combined,RC04,resolved_correct,resolved_correct ~ Focus + Agent,They,-0.3703,0.339,0.275,0.5402,160
+Combined,RC04,resolved_correct,resolved_correct ~ Focus + Agent,Agent,0.0964,0.334,0.773,0.5402,160
+Combined,RC05,resolved_correct,resolved_correct ~ Focus + Goal_Type,They,-0.3917,0.342,0.252,0.2303,160
+Combined,RC05,resolved_correct,resolved_correct ~ Focus + Goal_Type,goal_non_frequent,-0.5735,0.402,0.153,0.2303,160
+Combined,RC05,resolved_correct,resolved_correct ~ Focus + Goal_Type,no_goal,-0.637,0.407,0.117,0.2303,160
+Combined,RC06,resolved_correct,resolved_correct ~ Agent + Goal_Type,goal_non_frequent,-0.5837,0.4,0.144,0.3795,160
+Combined,RC06,resolved_correct,resolved_correct ~ Agent + Goal_Type,no_goal,-0.6059,0.405,0.135,0.3795,160
+Combined,RC06,resolved_correct,resolved_correct ~ Agent + Goal_Type,Agent,0.1086,0.334,0.745,0.3795,160
+Combined,RC07,resolved_correct,resolved_correct ~ Focus * Agent,They,-0.8468,0.446,0.058,0.23,160
+Combined,RC07,resolved_correct,resolved_correct ~ Focus * Agent,Agent,-0.334,0.419,0.426,0.23,160
+Combined,RC07,resolved_correct,resolved_correct ~ Focus * Agent,They:Agent,1.1878,0.694,0.087,0.23,160
+Combined,RC08,resolved_correct,resolved_correct ~ Focus * Goal_Type,They,-0.539,0.585,0.357,0.3041,160
+Combined,RC08,resolved_correct,resolved_correct ~ Focus * Goal_Type,goal_non_frequent,-0.459,0.516,0.374,0.3041,160
+Combined,RC08,resolved_correct,resolved_correct ~ Focus * Goal_Type,no_goal,-0.9137,0.516,0.077,0.3041,160
+Combined,RC08,resolved_correct,resolved_correct ~ Focus * Goal_Type,They:goal_non_frequent,-0.2883,0.833,0.729,0.3041,160
+Combined,RC08,resolved_correct,resolved_correct ~ Focus * Goal_Type,They:no_goal,0.7802,0.7802,0.351,0.3041,160
+Combined,RC09,resolved_correct,resolved_correct ~ Agent * Goal_Type,goal_non_frequent,-0.5596,0.523,0.285,0.3909,160
+Combined,RC09,resolved_correct,resolved_correct ~ Agent * Goal_Type,no_goal,-1.0217,0.542,0.06,0.3909,160
+Combined,RC09,resolved_correct,resolved_correct ~ Agent * Goal_Type,Agent,-0.1823,0.571,0.75,0.3909,160
+Combined,RC09,resolved_correct,resolved_correct ~ Agent * Goal_Type,Agent:goal_non_frequent,-0.0847,0.814,0.917,0.3909,160
+Combined,RC09,resolved_correct,resolved_correct ~ Agent * Goal_Type,Agent:no_goal,1.0033,0.824,0.223,0.3909,160
+Combined,RC10,resolved_correct,resolved_correct ~ Focus * Agent + Goal_Type,They,-0.8597,0.452,0.057,0.2064,160
+Combined,RC10,resolved_correct,resolved_correct ~ Focus * Agent + Goal_Type,goal_non_frequent,-0.5539,0.405,0.172,0.2064,160
+Combined,RC10,resolved_correct,resolved_correct ~ Focus * Agent + Goal_Type,no_goal,-0.6386,0.411,0.121,0.2064,160
+Combined,RC10,resolved_correct,resolved_correct ~ Focus * Agent + Goal_Type,Agent,-0.3599,0.424,0.396,0.2064,160
+Combined,RC10,resolved_correct,resolved_correct ~ Focus * Agent + Goal_Type,They:Agent,1.1814,0.701,0.092,0.2064,160
