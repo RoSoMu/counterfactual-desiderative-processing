@@ -11,10 +11,10 @@ Combined,E05,Escape_L2,escape_L2 ~ Focus + Goal_Type,no_goal,0.3649,0.43,0.396,0
 Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,goal_non_frequent,0.6038,0.455,0.185,0.02954,198
 Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,no_goal,0.3785,0.437,0.387,0.02954,198
 Combined,E06,Escape_L2,escape_L2 ~ Agent + Goal_Type,Agent,1.1182,0.45,0.013,0.02954,198
-Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,They,P01,P01,P01,P01,198
-Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,goal_non_frequent,P01,P01,P01,P01,198
-Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,no_goal,P01,P01,P01,P01,198
-Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,Agent,P01,P01,P01,P01,198
+Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,They,0.233,0.383,0.543,0.05278,198
+Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,goal_non_frequent,0.605,0.456,0.184,0.05278,198
+Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,no_goal,0.3793,0.438,0.386,0.05278,198
+Combined,P01,Escape_L2,escape_L2 ~ Focus + Agent + Goal_Type,Agent,1.1418,0.452,0.012,0.05278,198
 Combined,E08,Escape_L2,escape_L2 ~ Focus * Agent,They,0.2269,0.423,0.591,0.05789,198
 Combined,E08,Escape_L2,escape_L2 ~ Focus * Agent,Agent,1.1259,0.543,0.038,0.05789,198
 Combined,E08,Escape_L2,escape_L2 ~ Focus * Agent,They:Agent,0.0192,0.973,0.984,0.05789,198
