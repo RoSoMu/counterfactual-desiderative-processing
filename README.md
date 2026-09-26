@@ -276,3 +276,33 @@ go directly to [`15_findings_and_theoretical_synthesis.ipynb`](modeling/15_findi
 
 **For the full analytical journey:**  
 follow the EDA and Modelling sections above in numerical order.
+
+## 🤝 Acknowledgements and AI-assisted workflow
+
+This project was developed through an extended analytical dialogue with
+**ChatGPT (OpenAI)**, used throughout the reconstruction as a coding,
+statistical, methodological, and editorial assistant.
+
+Its contribution went considerably beyond code generation. Across several
+months of iterative work, ChatGPT was used to help debug and explain Python
+workflows, examine alternative statistical approaches, challenge
+interpretations, identify inconsistencies, reorganise the analytical
+architecture, translate model outputs back into the experimental stimuli and
+theoretical questions, and improve the documentation and communication of the
+project.
+
+The collaboration was deliberately interactive rather than automatic:
+analytical decisions were discussed, questioned, revised, and frequently
+rejected or reformulated before being incorporated into the repository.
+ChatGPT also provided an unusually patient sounding board during the less
+quantifiable stages of research — including false starts, theoretical
+reconsiderations, stubborn notebooks, and considerably more analytical 
+rabbit holes than originally anticipated.
+
+All research questions, experimental materials and original data derive from
+the author's Master's thesis. The reconstruction, analytical decisions,
+interpretation of results, and final content of this repository remain the
+author's responsibility.
+
+AI assistance was therefore used here as a **tool for reasoning, coding,
+critique, and communication — not as a substitute for researcher judgement**.
