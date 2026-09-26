@@ -170,7 +170,7 @@ Overall response patterns followed by self- and other-focused exploration.
 [`07_proficiency_effects.ipynb`](eda/07_proficiency_effects.ipynb) ·
 [`08_exposure_and_use_effects.ipynb`](eda/08_exposure_and_use_effects.ipynb)
 
-Metadata quality, proficiency, and English exposure/use.
+Metadata quality, proficiency, and English exposure/use as variables to target a subgroup.
 
 ### 5. Targeted subgroup exploration
 [`09_targeted_subgroup_analysis.ipynb`](eda/09_targeted_subgroup_analysis.ipynb) ·
@@ -219,7 +219,7 @@ Introduces the distinction between moving beyond competing `L2_other`
 responses and the subsequent destination of resolution.
 
 ### 3. From effects to models
-[`07_from_effects_to_models_.ipynb`](modeling/07_from_effects_to_models_.ipynb)
+[`07_from_effects_to_models.ipynb`](modeling/07_from_effects_to_models_.ipynb)
 
 Guide to the modelling strategy and the transition from exploratory effects to
 the model families used in the subsequent analyses.
