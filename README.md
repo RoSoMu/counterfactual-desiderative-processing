@@ -277,6 +277,8 @@ go directly to [`15_findings_and_theoretical_synthesis.ipynb`](modeling/15_findi
 **For the full analytical journey:**  
 follow the EDA and Modelling sections above in numerical order.
 
+---
+
 ## 🤝 Acknowledgements and AI-assisted workflow
 
 This project was developed through an extended analytical dialogue with
